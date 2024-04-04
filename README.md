@@ -48,6 +48,9 @@ Borrow out = A'Bin + A'B + BBin
 
 
 *Procedure*
+
+Write the detailed procedure here
+
 ~
 *Full Adder:*
 1.Open Quartus II and create a new project.
